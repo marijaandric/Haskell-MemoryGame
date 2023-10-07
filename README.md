@@ -6,7 +6,7 @@ This project is an implementation of the "Memory" game using the Haskell program
 2. Navigate to the project directory
 3. Run the game - ghci project.hs
 4. In the GHCi interpreter, start the game by entering "main"
-5. Follow the on-screen instructions to play the Memory game.
+5. Play game.
    
 ## Requirements
 To successfully run this game, you need to have [GHC (Glasgow Haskell Compiler)], [cabal] (Haskell package manager) and [Gloss] library installed on your computer.
